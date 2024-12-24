@@ -41,7 +41,7 @@ District-level internet speed visualizations are generated using **Folium**, sho
    - Export results to `output/`.
 
 ## Requirements
-- Python 3.x
+- Python 3.10
 - Key libraries: `folium`, `pandas`, `numpy`, `statsmodels`, `geopandas`, among others.
 
 ## Acknowledgements
